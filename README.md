@@ -1,2 +1,2 @@
 # sign-language-detector
-Sign Language Detector with PyTorch
+Sign Language Detector with Tensorflow
